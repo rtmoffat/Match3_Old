@@ -1,9 +1,17 @@
 {
   "resources": [
     {"id":{"name":"spr_Square","path":"sprites/spr_Square/spr_Square.yy",},"order":0,},
+    {"id":{"name":"spr_Selector","path":"sprites/spr_Selector/spr_Selector.yy",},"order":3,},
+    {"id":{"name":"spr_Dot_1","path":"sprites/spr_Dot_1/spr_Dot_1.yy",},"order":4,},
+    {"id":{"name":"obj_Selected","path":"objects/obj_Selected/obj_Selected.yy",},"order":2,},
     {"id":{"name":"spr_Controller","path":"sprites/spr_Controller/spr_Controller.yy",},"order":1,},
+    {"id":{"name":"obj_Dot","path":"objects/obj_Dot/obj_Dot.yy",},"order":1,},
     {"id":{"name":"obj_Square","path":"objects/obj_Square/obj_Square.yy",},"order":0,},
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},"order":1,},
+    {"id":{"name":"spr_Dot","path":"sprites/spr_Dot/spr_Dot.yy",},"order":2,},
+    {"id":{"name":"obj_Selector","path":"objects/obj_Selector/obj_Selector.yy",},"order":3,},
+    {"id":{"name":"spr_Selector_2","path":"sprites/spr_Selector_2/spr_Selector_2.yy",},"order":6,},
+    {"id":{"name":"spr_Selector_1","path":"sprites/spr_Selector_1/spr_Selector_1.yy",},"order":5,},
     {"id":{"name":"scr_Utilities","path":"scripts/scr_Utilities/scr_Utilities.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
