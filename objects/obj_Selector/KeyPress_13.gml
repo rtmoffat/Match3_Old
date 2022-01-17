@@ -8,12 +8,17 @@ if !place_meeting(x,y,obj_Dot) {
 }
 else {
 		if !place_meeting(x,y,obj_Selected) {
-		instance_create_depth(x,y,1,obj_Selected)
-		//instance_destroy(instance_place(x,y,obj_Dot))
-		show_debug_message("Selecting")
+			instance_create_depth(x,y,1,obj_Selected)
+			//instance_destroy(instance_place(x,y,obj_Dot))
+			my_dot_inst=instance_place(x,y,obj_Dot)
+			my_dot_inst.selected=1
+			show_debug_message("Selecting")
 	}
-		else {
+	else {
+			//De-Selection code
 			instance_destroy(instance_place(x,y,obj_Selected))
 			show_debug_message("De-Selecting")
+			my_dot_inst=instance_place(x,y,obj_Dot)
+			my_dot_inst.selected=0
 	}
 }
