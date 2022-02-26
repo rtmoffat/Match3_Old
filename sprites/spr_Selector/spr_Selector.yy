@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_Selector","path":"sprites/spr_Selector/spr_Selector.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_Selector",
     "tags": [],
     "resourceType": "GMSequence",

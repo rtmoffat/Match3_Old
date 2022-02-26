@@ -20,5 +20,6 @@ else {
 			show_debug_message("De-Selecting")
 			my_dot_inst=instance_place(x,y,obj_Dot)
 			my_dot_inst.selected=0
+			global.prev_dir=0
 	}
 }

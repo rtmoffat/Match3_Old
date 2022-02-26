@@ -7,6 +7,7 @@
     {"id":{"name":"spr_Controller","path":"sprites/spr_Controller/spr_Controller.yy",},"order":1,},
     {"id":{"name":"obj_Dot","path":"objects/obj_Dot/obj_Dot.yy",},"order":1,},
     {"id":{"name":"obj_Square","path":"objects/obj_Square/obj_Square.yy",},"order":0,},
+    {"id":{"name":"scr_Dot_Utilities","path":"scripts/scr_Dot_Utilities/scr_Dot_Utilities.yy",},"order":1,},
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},"order":1,},
     {"id":{"name":"spr_Dot","path":"sprites/spr_Dot/spr_Dot.yy",},"order":2,},
     {"id":{"name":"obj_Selector","path":"objects/obj_Selector/obj_Selector.yy",},"order":3,},
@@ -22,7 +23,6 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -54,9 +54,9 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2022.2.0.614",
   },
-  "resourceVersion": "1.4",
+  "resourceVersion": "1.5",
   "name": "Match3_A11",
   "tags": [],
   "resourceType": "GMProject",

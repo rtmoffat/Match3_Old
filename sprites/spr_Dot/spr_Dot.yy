@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_Dot","path":"sprites/spr_Dot/spr_Dot.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_Dot",
     "tags": [],
     "resourceType": "GMSequence",
